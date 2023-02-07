@@ -1,0 +1,27 @@
+<html>
+     <head>
+
+       <titlte>minhal khan lodhi</title>
+
+       </head>
+         
+       <body>
+             <p realme mobiles </p>
+             </body>
+            
+  </html>     
+
+
+
+
+
+ <html>
+      <head>
+            <title>web and app development</title>
+       </head>
+            
+     <body>
+           <P SIR GHOUS </P>
+       </body>
+
+</html>
